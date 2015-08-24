@@ -367,7 +367,8 @@ body.scrolling .nav-main-collapse.collapsing {
 
 	#header nav ul.nav-main ul.dropdown-menu li:hover > a {
 		filter: none;
-		background: #F4F4F4;
+		background: #c93a3a;
+        color: #fff;
 	}
 
 	#header nav ul.nav-main ul.dropdown-menu li:last-child > a {

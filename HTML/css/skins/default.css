@@ -2337,8 +2337,8 @@ html[dir="rtl"] #header nav ul.nav-main .tip.skin:before {
 
 	#header.flat-menu nav ul.nav-main > li:hover > a,
 	#header.flat-menu nav ul.nav-main > li > a:hover {
-		color: #ffffff !important;
-		background-color: #c93a3a !important;
+		color: #c93a3a !important;
+		background-color: transparent !important;
 	}
 
 	#header nav.mega-menu ul.nav-main li.mega-menu-item ul.dropdown-menu {
