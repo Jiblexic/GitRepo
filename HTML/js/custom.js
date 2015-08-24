@@ -1,0 +1,1 @@
+theme.StickyMenu.initialize = function() {};
