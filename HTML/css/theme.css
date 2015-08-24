@@ -248,7 +248,7 @@ li {
 }
 
 /* Sticky Menu */
-#header.fixed {
+/*#header.fixed {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -290,7 +290,7 @@ body.sticky-menu-active.always-sticky #header .social-icons {
 body.scrolling .nav-main-collapse.collapsing {
 	-webkit-transition: none;
 	transition: none;
-}
+}*/
 
 @media (min-width: 992px) {
 	#header nav {
