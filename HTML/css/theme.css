@@ -631,7 +631,7 @@ body.scrolling .nav-main-collapse.collapsing {
 	}
 
 	#header.flat-menu nav ul.nav-main ul.dropdown-menu {
-		margin: 0 0 0 1px;
+		margin: -20px 0 0 1px;
 		border-radius: 0;
 	}
 
