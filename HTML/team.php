@@ -8,7 +8,7 @@
 				
 				<div class="container">
 <br> <br>
-					<h2>Cheriton <strong>Fitzpaine 2nds</strong> </h2>
+					<h2>Cheriton <strong>Fitzpaine 2nds</strong> - Meet the Team</h2>
 
 					<ul class="nav nav-pills sort-source" data-sort-id="team" data-option-key="filter">
 						<li data-option-value="*" class="active"><a href="#">All</a></li>
@@ -26,7 +26,7 @@
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item goalkeepers">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										<a href="#">
+										<a href="about-me.php">
 											<img src="img/players/phil_hargreaves.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Phillip Hargreaves</span>
@@ -47,7 +47,7 @@
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item defenders">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										<a href="#">
+										<a href="about-me.php">
 											<img src="img/players/matt_garnett.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Matt Garnett</span>
@@ -68,7 +68,7 @@
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item defenders">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										<a href="#">
+										<a href="about-me.php">
 											<img src="img/players/alex_partridge.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Alex Partridge</span>
@@ -89,7 +89,7 @@
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item midfielders">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										<a href="#">
+										<a href="about-me.php">
 											<img src="img/players/mark_colville.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Mark Colville</span>
@@ -110,7 +110,7 @@
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item midfielders">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										<a href="#">
+										<a href="about-me.php">
 											<img src="img/players/cory_knowles.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Cory Knowles</span>
@@ -131,7 +131,7 @@
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item strikers">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										<a href="#">
+										<a href="about-me.php">
 											<img src="img/players/matt_garlick.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Matt Garlick</span>
@@ -152,7 +152,7 @@
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item strikers">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										<a href="#">
+										<a href="about-me.php">
 											<img src="img/players/dan_hoyland.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Daniel Hoyland</span>
