@@ -1,4 +1,18 @@
 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="http://api.tweecool.com/js/tweecool.min.js"></script>
+  <script>
+		  $(document).ready(function() {
+		      $('#tweet').tweecool({
+		      	//settings
+		      	 username : '_danregan', 
+		         limit : 1	
+		      });
+		  });
+		  </script>
+
+
+
 <footer id="footer">
 	<div class="container">
 		<div class="row">
@@ -8,7 +22,8 @@
 			</div>
 			<div class="col-md-5">
 				<h4 class="heading-primary">Latest Tweets</h4>
-				<div id="tweet" class="twitter" >
+				<div id="tweet" class="twitter">
+					<p>Please wait...</p>
 				</div>
 			</div>
 			<div class="col-md-2">
